@@ -1,0 +1,32 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: #227dd9; }
+
+p {
+  color: #888; }
+
+.color_element {
+  color: #227dd9; }
+
+.color_bg {
+  background-color: #227dd9; }
+
+.color_border {
+  border-color: #227dd9; }
+
+svg path {
+  fill: #222; }
+
+.toggle_mnu {
+  background-color: #222; }
+
+.top_menu a:hover {
+  color: #227dd9;
+  background-color: rgba(107, 167, 249, 0.06); }
+.top_menu a {
+  letter-spacing: 5px; }
+
+/*# sourceMappingURL=tomato.css.map */
